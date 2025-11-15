@@ -1,0 +1,2 @@
+﻿PackageName,RepositoryUrl,IsTestMode,TestRepositoryPath,PackageVersion,MaxDepth,OutputImageFileName,ShowAsciiTree,FilterSubstring
+Newtonsoft.Json,https://api.nuget.org/v3/index.json,true,test_dependencies.txt,13.0.1,3,dependency_graph.png,true,

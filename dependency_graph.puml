@@ -1,0 +1,15 @@
+@startuml
+["B"]
+["C"]
+["Newtonsoft.Json"]
+["D"]
+["G"]
+["E"]
+["F"]
+["Newtonsoft.Json"] --> ["B"]
+["Newtonsoft.Json"] --> ["C"]
+["B"] --> ["D"]
+["B"] --> ["E"]
+["C"] --> ["F"]
+["E"] --> ["G"]
+@enduml
